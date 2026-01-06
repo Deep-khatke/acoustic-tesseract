@@ -342,10 +342,6 @@ This validates spatial audio as a viable alternative to visual data exploration.
 
 
 
-\*Academic Project – November 2025\*
-
-
-
 ---
 
 
